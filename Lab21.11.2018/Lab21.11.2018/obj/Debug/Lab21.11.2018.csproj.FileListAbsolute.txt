@@ -1,0 +1,7 @@
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\bin\Debug\Lab21.11.2018.exe.config
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\bin\Debug\Lab21.11.2018.exe
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\bin\Debug\Lab21.11.2018.pdb
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\obj\Debug\Lab21.11.2018.csprojAssemblyReference.cache
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\obj\Debug\Lab21.11.2018.csproj.CoreCompileInputs.cache
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\obj\Debug\Lab21.11.2018.exe
+c:\users\eagha\source\repos\Lab21.11.2018\Lab21.11.2018\obj\Debug\Lab21.11.2018.pdb
